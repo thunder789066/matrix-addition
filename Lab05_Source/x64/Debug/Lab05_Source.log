@@ -1,0 +1,3 @@
+﻿  functions.cpp
+C:\Users\Christina\Source\Repos\Lab05\Lab05_Source\functions.cpp(91): error C4716:  'get_matrix1_val': must return a value
+C:\Users\Christina\Source\Repos\Lab05\Lab05_Source\functions.cpp(100): error C4716:  'get_matrix2_val': must return a value
